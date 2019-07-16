@@ -1,0 +1,27 @@
+@media (min-width: 200px) and (max-width:600px){
+.btn1,.btn2,.btn3{
+    width:100px;
+}
+}
+
+@media (min-width: 600px) and (max-width:900px){
+    .btn1,.btn2,.btn3{
+        width:180px;
+    }
+}
+@media(min-width: 900px){
+    .btn1,.btn2,.btn3{
+        width:240px;
+    }
+}
+.copy{
+    margin-left:30%;
+    margin-bottom:12px;
+}
+.texto{
+    margin-left:2%;
+}
+
+.proimg{
+ width:80%;
+}
