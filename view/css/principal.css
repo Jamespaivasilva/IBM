@@ -2,6 +2,12 @@
 .btn1,.btn2,.btn3{
     width:100px;
 }
+
+.idioma{
+    width:100px;
+    height:20%;
+}
+
 }
 
 @media (min-width: 600px) and (max-width:900px){
@@ -21,7 +27,10 @@
 .texto{
     margin-left:2%;
 }
-
 .proimg{
  width:80%;
+}
+.idioma{
+  width:3.0%;
+  height:2%;
 }
